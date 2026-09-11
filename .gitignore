@@ -1,0 +1,16 @@
+# ---- 密钥与环境变量 ----
+.env
+.env.*
+!.env.example
+
+# ---- Windows / macOS 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 编辑器配置 ----
+.vscode/
+.idea/
+
+# ---- 源文档（Word 原件保留在本地但不上传）----
+*.docx
